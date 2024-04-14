@@ -11,5 +11,8 @@
 
 ## Результат программы
 
-![image](https://github.com/Maria-Bedareva/Pr03_04/assets/82601289/f78e82b0-ec47-4f33-9c41-44558d2916c3)
+![фрактал](https://github.com/Maria-Bedareva/Pr03_04/assets/82601289/38bc9888-07ba-4b3b-a0e0-3b9c1ff7a6f3)
+
+
+
 
